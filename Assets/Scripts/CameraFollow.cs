@@ -3,6 +3,7 @@ using UnityEngine;
 public class CameraFollow : MonoBehaviour
 {
     public Transform player;
+    
     public Vector3 distance;
     // Update is called once per frame
     void Update()
