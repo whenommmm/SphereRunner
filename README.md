@@ -29,14 +29,6 @@ Simple to learn, difficult to master.
 
 ---
 
-## 🚀 How to Play
-- Open the project in **Unity (2022 or later / Unity 6)**.  
-- Play directly in the Unity Editor.  
-
-*(Optional: If builds are added later, instructions for running `.exe` or `.apk` will go here.)*
-
----
-
 ## 🛠 Development
 - Built in **Unity**  
 - Language: **C#**  
