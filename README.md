@@ -1,2 +1,55 @@
-# SphereRunner
-A 2d Sphere Running game where the player has to traverse levels filled with obstacles and reach the end.
+# 2D Sphere Runner
+
+A **minimalist level-based obstacle runner** made in Unity.  
+You control a teal-colored sphere that automatically moves forward — your job is to survive tricky platforms and obstacles to reach the end of each level.  
+Simple to learn, difficult to master.  
+
+---
+
+## 🎮 Gameplay
+- The sphere **moves forward automatically**.
+- Use **A** to move left and **D** to move right.
+- Avoid obstacles and don’t fall off the platforms.
+- The game ends if you collide with an obstacle or fall.
+- Progress through multiple levels of increasing difficulty.
+
+---
+
+## ✨ Features
+- Minimalist design with a clean teal aesthetic.  
+- Level-based progression with challenging layouts.  
+- Simple two-key controls for accessibility.  
+- Designed to test focus, timing, and precision.  
+
+---
+
+## 🕹 Controls
+- **A** → Move Left  
+- **D** → Move Right  
+
+---
+
+## 🚀 How to Play
+- Open the project in **Unity (2022 or later / Unity 6)**.  
+- Play directly in the Unity Editor.  
+
+*(Optional: If builds are added later, instructions for running `.exe` or `.apk` will go here.)*
+
+---
+
+## 🛠 Development
+- Built in **Unity**  
+- Language: **C#**  
+- Developer: **Vansh Srivastava**  
+
+---
+
+## 📌 Future Improvements
+- More levels with increasing difficulty  
+- Additional mechanics (speed boosts, power-ups, etc.)  
+- Polished UI and menus  
+
+---
+
+## 📜 License
+This project is open-source. Feel free to use, learn from, or expand upon it.  
